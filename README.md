@@ -1,12 +1,5 @@
 # StayEase — PG Accommodation & Co-Living Management Platform
 
-[![Backend Tests](https://img.shields.io/badge/Pytest-47%20Passed-brightgreen)](file:///d:/Manasvi%20tech%20task/StayEaseProject/backend/tests)
-[![Vite Build](https://img.shields.io/badge/Vite-Production%20Build%20Passing-blue)](file:///d:/Manasvi%20tech%20task/StayEaseProject/frontend)
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-teal)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-19.0-61dafb)](https://react.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)](https://www.mysql.com/)
-
 StayEase is a full-stack, enterprise-grade PG accommodation and co-living platform designed to connect paying guests with property owners. It provides secure role-based access control (RBAC), database-backed property and bed inventory management, automated join requests, rent invoicing and receipt verification, maintenance complaint workflows, and Google OAuth 2.0 / OpenID Connect integration.
 
 ---
